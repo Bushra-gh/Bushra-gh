@@ -32,6 +32,11 @@ I'm passionate about technology, open source, and continuous learning.
 
 ---
 
+### 🏆 Hacktoberfest Badges
+[![@bushragh's Holopin board](https://holopin.me/bushragh)](https://www.holopin.io/@bushragh#badges)
+
+---
+
 ## 📢 Let's Connect
 
 - [GitHub](https://github.com/Bushra-gh)
