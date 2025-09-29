@@ -8,7 +8,7 @@ I'm passionate about technology, open source, and continuous learning.
 ## 🚀 About Me
 
 - 🌱 Currently exploring: Data Science, AI/ML, Open source projects
-- 💻 Coding interests: Python, Shell Scripting, AI/ML, DevOps
+- 💻 Interests: Python, Java, Shell Scripting, AI/ML, DevOps
 - 📫 How to reach me: [rbushra402@gmail.com]
 
 ---
