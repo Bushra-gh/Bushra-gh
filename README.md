@@ -32,7 +32,7 @@ I'm passionate about technology, open source, and continuous learning.
 
 ---
 
-## Hacktoberfest's Badges
+## ⭐️ Hacktoberfest's Badges
 
 [![An image of @bushragh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bushragh)](https://holopin.io/@bushragh)
 
