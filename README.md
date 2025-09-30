@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Bushra!
 
 Welcome to my GitHub profile!  
-I'm passionate about technology, open source, and continuous learning.
 
 ---
 
