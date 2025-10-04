@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bushra-gh&show=prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bushra-gh&show_icons=true&show=prs_merged,prs_merged_percentage&locale=en&theme=github_dark"/>
 <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bushra-gh&theme=github-dark" />
 </p>
@@ -44,3 +44,5 @@ Welcome to my GitHub profile!
 - [LinkedIn](www.linkedin.com/in/bushra-rahman-495aaa345)
 
 Thanks for stopping by! ⭐
+
+
