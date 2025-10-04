@@ -41,7 +41,7 @@ Welcome to my GitHub profile!
 ## 📢 Let's Connect
 
 - [GitHub](https://github.com/Bushra-gh)
-- [LinkedIn](www.linkedin.com/in/bushra-rahman-495aaa345)
+- [LinkedIn](https://www.linkedin.com/in/bushra-rahman-495aaa345/)
 
 Thanks for stopping by! ⭐
 
